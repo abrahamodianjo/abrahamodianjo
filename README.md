@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @abrahamodianjo
-- 👀 I’m interested in ... reactjs, codeigniter, Php, database management, HTML, CSS, and Bootstrap
-- 🌱 I’m currently learning ...flutter 
-- 💞️ I’m looking to collaborate on ... flutter projects, reactjs projects and codeigniter projects 
-- 📫 How to reach me ... Email: abrahamodianjo@yahoo.com
+Highly motivated PHP Developer with hands-on experience in web development and a strong understanding of the Laravel framework. Seeking a challenging position to contribute to the development and growth of a dynamic organization. 
 
 <!---
 abrahamodianjo/abrahamodianjo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
