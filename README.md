@@ -1,4 +1,4 @@
-I am a dedicated and passionate computer science graduate with distinction from the University of Wolverhampton. I have acquired a profound level of analytical and critical awareness in my chosen discipline(s). With 4 years of experience in website development and a robust proficiency in a range of technologies, I am devoted to crafting user-centric web solutions. I consistently pursue opportunities to remain up-to-date with industry trends and emerging technologies, striving to contribute to impactful development projects as a dynamic and industrious professional.
+PHP, Laravel, PHP Unit test
 
 Technical Skill
 
